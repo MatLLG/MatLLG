@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatLLG" alt="MatLLG" /> </p>
 
-- 🔭 I’m currently working on my personnal website as a portfolio
+- 🔭 I’m currently working on our projet group - " L'étagère " -
 
 - :school_satchel: I’m currently learning Symfony <img src="https://icongr.am/devicon/symfony-original.svg?size=25&color=currentColor" alt="Symfony" width="20" height="20"/>
 
